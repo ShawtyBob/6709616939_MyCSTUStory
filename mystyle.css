@@ -152,14 +152,14 @@ p{
 #taytay{
     position: absolute;
     width: 207px;
-    top: 235px;
+    top: 277px;
     left: 195px;
     z-index: 3;
 }
 #ldr{
    position: absolute; 
    width: 207px;
-   top: 235px;
+   top: 277px;
    right: 455px;
    z-index: 2;
 }
