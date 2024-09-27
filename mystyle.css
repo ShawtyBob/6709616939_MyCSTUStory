@@ -227,9 +227,11 @@ fieldset{
 .grid-future p , .grid-journey p {
     margin: 15px;
     padding: 10px;
+    line-height: 2;
 }
 .grid-future fieldset , .grid-journey fieldset {
     width: 180%;
+    height: 500px;
 }
 #a1 {
     position:absolute ;
@@ -243,4 +245,8 @@ fieldset{
 }
 a{
     color: rgb(255, 62, 191);
+}
+span{
+    font-size: larger;
+    color: #f82b2b;
 }
