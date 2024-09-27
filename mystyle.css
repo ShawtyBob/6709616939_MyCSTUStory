@@ -213,7 +213,7 @@ fieldset{
     border: 2px solid #fb96ff;
     padding: 10px;
 }
-/**********My Future *************/
+/**********My Journey *************/
 .grid-future , .grid-journey{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -222,5 +222,12 @@ fieldset{
 }
 .grid-future img , .grid-journey img {
     width: 550px;
+    margin-left: 30%;
 }
-/**********My Journey ************/
+.grid-future p , .grid-journey p {
+    margin: 15px;
+    padding: 10px;
+}
+.grid-future fieldset , .grid-journey fieldset {
+    width: 180%;
+}
