@@ -231,3 +231,16 @@ fieldset{
 .grid-future fieldset , .grid-journey fieldset {
     width: 180%;
 }
+#a1 {
+    position:absolute ;
+    top: 50px;
+    right: 180px;
+}
+#a2 {
+    position:absolute ;
+    top: 50px;
+    right: 50px;
+}
+a{
+    color: rgb(255, 62, 191);
+}
