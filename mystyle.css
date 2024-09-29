@@ -235,13 +235,19 @@ fieldset{
 }
 #a1 {
     position:absolute ;
-    top: 50px;
+    top: 35px;
     right: 180px;
+}
+#a1 h2{
+    font-size: small;
 }
 #a2 {
     position:absolute ;
-    top: 50px;
+    top: 35px;
     right: 50px;
+}
+#a2 h2{
+    font-size: small;
 }
 a{
     color: rgb(255, 62, 191);
